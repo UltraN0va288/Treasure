@@ -1,0 +1,167 @@
+November 9th 2021 (v0.3.1)
+
+- GENERAL
+  Fixed an issue where the game
+  would not transition back to the
+  lobby after the result screen
+
+----------------------------------
+
+October 30th 2021 (v0.3.0)
+
+- GENERAL
+  - Updated Chrome Web Store app
+  - Added new servers
+  - Fixed an issue where loading the
+    game could get stuck on 99%
+  - Updated outdated links
+  - Minor updates
+
+----------------------------------
+
+March 1st 2015 (v0.2.2)
+
+- GENERAL
+  - Minor updates
+
+----------------------------------
+
+February 22nd 2015 (v0.2.1)
+
+- NETWORK
+  - Improved lag compensation
+
+- GAMEPLAY
+  - You should be far less likely to
+    get stuck outside the map boundaries
+
+----------------------------------
+
+February 20th 2015 (v0.2.0)
+
+- GENERAL
+  - Improved loading time
+  - Added more info to loading screen
+  - UI updates
+
+- GAMEPLAY
+  - Changed keybinding for character
+    skills to "E"-key
+
+----------------------------------
+
+October 31st 2014
+
+HAPPY HALLOWEEN!
+
+----------------------------------
+
+September 6th 2014 (v0.1.9)
+
+- LOBBIES
+  - Added option to join a random lobby.
+
+- GENERAL
+  - Improved initial loading time.
+
+----------------------------------
+
+August 5th 2014 (v0.1.8)
+
+- AUDIO
+  - Fixed an issue where 2 music tracks
+    were overlapping. Sorry 'bout that <3
+
+----------------------------------
+
+July 18th 2014 (v0.1.7)
+
+- GENERAL
+  - Fixed an issue where some sound
+    effects wouldn't play in some
+    versions of FIREFOX.
+  - Fixed an issue where loading audio
+    would fail and prevent the game
+    from starting in some versions
+    of CHROME. (Thanks @BurningGramma)
+  - The global stats in the lobby
+    selection screen show up
+    correctly again.
+
+----------------------------------
+
+June 12th 2014 (v0.1.6)
+
+- GENERAL
+  - Various bug fixes and improvements
+
+----------------------------------
+
+February 19th 2014
+
+- GENERAL
+  - Fix for Internet Explorer 11
+
+----------------------------------
+
+December 29th 2013 (v0.1.5)
+
+- GENERAL
+  - Updated tileset and maps
+  - Improved rendering performance
+  - Improved lighting
+  - Added slight motion-blur effect
+  - Added screen-shake while attacking
+
+----------------------------------
+
+October 31st 2013 (v0.1.4)
+
+HAPPY HALLOWEEN!
+
+- GENERAL
+  - Improved the lobby selection menu
+  - Minor graphical updates
+
+----------------------------------
+
+October 28th 2013
+
+- GENERAL
+  - Fixed an issue where the game
+    would not load in some cases
+
+----------------------------------
+
+
+September 22nd 2013 (v0.1.3)
+
+- GENERAL
+  - Added support for Opera 15+
+  - Improved server stability
+  - Minor bug fixes
+
+----------------------------------
+
+August 27th 2013 (v0.1.2)
+
+- GENERAL
+  - Improved game performance
+
+- GAMEPLAY
+  - Blocking now consumes slightly more
+    stamina
+
+----------------------------------
+
+August 16th 2013 (v0.1.1)
+
+- GENERAL
+  - Minor bug fixes
+  - Improved server stability
+
+----------------------------------
+
+August 9th 2013 (v0.1.0)
+
+Welcome to Treasure Arena!
